@@ -1,5 +1,7 @@
 # HERO-Det: Hilbert Curve-Encoded Rotation-Equivariant Oriented Object Detector
 
+🤷‍♂️🤷‍♀️[Qi Ming*](https://github.com/ming71), [Liuqian Wang*](https://github.com/Qian-CV), Juan Fang†, Xudong Zhao†, Yucheng Xu, Ziyi Teng, Yue Zhou, Xiaoxi Hu, Xiaohan Zhang, Yufei Guo
+
 ![](doc/fig1.png)
 
 ## Introduction 
